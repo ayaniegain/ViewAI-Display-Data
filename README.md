@@ -1,7 +1,7 @@
 # User Data Table
 
 
-[Preview](https://view-table.netlify.app/)
+[Preview](https://data-table-api.netlify.app/)
 
 
 ## Overview
@@ -35,6 +35,6 @@ npm run dev
 # Live Demo
 ## Visit the live demo to see the project in action: 
 
-[Click](https://view-table.netlify.app/)
+[Click](https://data-table-api.netlify.app)
 
 
