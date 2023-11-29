@@ -1,8 +1,36 @@
-# React + Vite
+# User Data Table
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The "User Data Table" project is a web application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Clone the Repository
+
+To get started with the project, clone the repository to your local machine using the following command:
+
+```bash
+npm clone https://github.com/ayaniegain/ViewAI-Display-Data.git
+```
+# Install Dependencies.
+## Navigate to the project directory and install the necessary dependencies:
+
+
+```bash
+npm install
+```
+
+# Run the Project
+## Start the development server using the following command:
+
+```bash
+npm run dev
+```
+
+# Live Demo
+## Visit the live demo to see the project in action: 
+
+[Click](https://view-table.netlify.app/)
+
+
