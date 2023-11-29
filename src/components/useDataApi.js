@@ -11,7 +11,7 @@ export function useDataApi() {
         setResults(response.results);
 
       } catch (error) {
-        console.log(error.message);
+        // console.log(error.message);
       }
     }
     fetchMyAPI();
